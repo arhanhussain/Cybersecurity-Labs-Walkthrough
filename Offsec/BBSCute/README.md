@@ -210,6 +210,14 @@ can lead to full system compromise.
 
 ---
 
+## 📄 Detailed Execution Logs
+
+For complete command outputs and raw execution logs, refer to the full report:
+
+📎 [Download Full Report](./Offsec_BBSCute.pdf)
+
+---
+
 ## 👨‍💻 Author
 
 Arhan Hussain
